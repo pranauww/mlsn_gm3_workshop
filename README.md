@@ -77,7 +77,9 @@ If you found this tutorial helpful or would like to contribute improvements, fee
 ## 👤 Author
 
 **Pranav Bhartiya**
+
 Machine Learning Student Network
+
 University of California, Davis.  
 
 ---
